@@ -36,6 +36,9 @@
 Esta aplicação é a uma prova/exercício referente a 1º etapa do processo seletivo para vaga de Desenvolvedor Júnior/Estagiário na Landix. 
 Para desenvolver todo o frontend foi usado a biblioteca/framework React, enquanto toda a lógica do backend foi feita com o NodeJS.
 
+## 🎨 Layout 
+
+Você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://drive.google.com/drive/folders/1CwHfKHSPdT6JOzOk5hGsnl1py21DGT0W?usp=sharing)
 
 ## Instalação e execução
 
