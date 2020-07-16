@@ -9,11 +9,11 @@ export default function Modal(props) {
 
   return (
     <Container>
-      <OutsideClickHandler onOutsideClick={() => setModalVisible(false)}>
-        <ConfirmationContainer>
+      <ConfirmationContainer>
+        <OutsideClickHandler onOutsideClick={() => setModalVisible(false)}>
           <div>{children}</div>
-        </ConfirmationContainer>
-      </OutsideClickHandler>
+        </OutsideClickHandler>
+      </ConfirmationContainer>
     </Container>
   );
 }
